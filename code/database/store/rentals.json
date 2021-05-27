@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "movie_id": "2",
+        "date_time": "2021",
+        "vendor": "Update Testing",
+        "date": "2013"
+    },
+    {
+        "id": 3,
+        "movie_id": "1",
+        "date": "2030",
+        "vendor": "sola"
+    }
+]
